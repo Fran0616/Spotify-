@@ -1,7 +1,7 @@
 # Spotify-
 
 # Spotify-
-Using Spotify API to get Jay Z albulm name, release date, track, type, and album URI
+Using Spotify API to get Jay Z album name, release date, track, type, and album URI
 
 Code
 =
